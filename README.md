@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Bruno Di Pietro
 
 - 📚 Estudo Análise e Desenvolvimento de Sistemas na Universidade Presbitariana Mackenzie
+- 📚 Estudo também Segurança ciberbenetica na Faculdade IBPTECH
 
 <div align="center">
   <a href="https://github.com/BrunoDiPietro">
